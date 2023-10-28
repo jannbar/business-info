@@ -1,0 +1,17 @@
+{
+  "name": "jannbar/business-info",
+  "require": {},
+  "require-dev": {
+    "laravel/pint": "^1.13"
+  },
+  "autoload": {
+    "psr-4": {
+      "JannBar\\BusinessInfo\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Jannik Baranczyk"
+    }
+  ]
+}
